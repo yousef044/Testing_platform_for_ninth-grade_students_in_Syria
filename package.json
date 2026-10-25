@@ -1,0 +1,5 @@
+{
+  "name": "quiz-platform",
+  "private": true,
+  "scripts": { "build:css": "npx tailwindcss@3 -i input.css -o tailwind.css --minify" }
+}
